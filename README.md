@@ -37,29 +37,62 @@
 
 <h4 align="left">Languages & Core</h4>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
 </p>
 
 <h4 align="left">Cloud & Infrastructure</h4>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
 </p>
 
 <h4 align="left">Security Tools</h4>
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://www.vectorlogo.zone/logos/portswigger_burpsuite/portswigger_burpsuite-icon.svg" alt="burpsuite" width="40" height="40"/></a>
-  <a href="https://wireshark.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali" height="30"/>
+  </a>&nbsp;
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite" height="30"/>
+  </a>&nbsp;
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" height="30"/>
+  </a>&nbsp;
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" height="30"/>
+  </a>&nbsp;
+  <a href="https://wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" height="30"/>
+  </a>&nbsp;
+  <a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="zap" height="30"/>
+  </a>
 </p>
 
 ---
@@ -67,10 +100,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=oavelar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" align="left" style="width: 100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=oavelar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" style="width: 100%"/>
     </td>
     <td valign="top" width="50%">
-      <img align="left" alt="cyber" height="160" width="470" src="https://media.tenor.com/images/ce401c8103f6576384e0c3a220ce23a4/tenor.gif"/>
+      <img alt="cyber" height="160" width="470" src="https://media.tenor.com/images/ce401c8103f6576384e0c3a220ce23a4/tenor.gif"/>
     </td>
   </tr>
 </table>
