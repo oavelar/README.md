@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Otávio Avelar</h1>
 <h3 align="center">Cybersecurity Engineer · Cloud Security · Pentesting · SAST/DAST/IAST</h3>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="oavelar" width="310" height="310"/>
-</p>
-
 <em>
 
 - 🔐 **Focused on Cybersecurity** — Cloud Security (AWS), Application Security (SAST/DAST/IAST), and Penetration Testing.
